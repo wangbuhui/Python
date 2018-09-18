@@ -1,2 +1,2 @@
 # Python
-Python 入门联系
+Python 入门练习
